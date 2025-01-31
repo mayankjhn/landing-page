@@ -5,7 +5,7 @@ A simple business landing page template using Bootstrap. This project was create
 ## Features:
 - Fully responsive layout using Bootstrap
 - Clean and modern design
-- Mobile-first approach
+  
 
 ## Technologies Used:
 - HTML
