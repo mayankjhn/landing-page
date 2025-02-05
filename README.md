@@ -7,7 +7,7 @@ A simple business landing page template using Bootstrap. This project was create
 - Clean and modern design
   
 
-## Technologies Used:
+# Technologies Used:
 - HTML
 - CSS
 - Bootstrap
